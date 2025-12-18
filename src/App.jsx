@@ -7,6 +7,8 @@ import "./App.css";
 const App=()=>{
   return(
     <div className="App">
+rukundo
+
 <Router>
 
   <NavBar />
